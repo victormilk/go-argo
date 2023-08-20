@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: golang
-          image: myimage
+          image: victormilk/myimage
           resources:
             limits:
               memory: "128Mi"

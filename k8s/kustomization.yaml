@@ -7,5 +7,5 @@ resources:
 namespace: golang
 
 images:
-  - name: myimage
+  - name: victormilk/myimage
     newTag: v3
